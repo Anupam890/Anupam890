@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p> -->
 
-- 🔭 I’m currently working on **Ai**
+- 🔭 I’m currently working on **ChatWiz App**
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
