@@ -6,9 +6,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p> -->
 
-- 🔭 I’m currently working on **Blogging Bytes**
+- 🔭 I’m currently working on **AutoWrite**
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **Socket.io**
 
 - 💬 Ask me about **React , MERN**
 
