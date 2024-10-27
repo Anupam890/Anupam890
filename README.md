@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AutoWrite**
 
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **React , MERN**
 
