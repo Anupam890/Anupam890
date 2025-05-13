@@ -6,13 +6,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p> -->
 
-- 🔭 I’m currently working on **Musica**
+- 🔭 I’m currently working on **Verbo AI**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **React , MERN**
 
-- 📫 How to reach me **anupamm059@gmail.com**
+- 📫 How to reach me **anupam.dev81@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
