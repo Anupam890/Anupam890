@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p> -->
 
 # 💫 About Me:
-🔭 I’m currently working on Ai Assistant<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Web and App<br>📫 How to reach me anupam.dev81@gmail.com<br>⚡ Fun fact I am Funny
+🔭 I’m currently working on Agentic Content Generation<br>🌱 I’m currently learning SnowFlake<br>💬 Ask me about Web and App<br>📫 How to reach me anupam.dev81@gmail.com<br>⚡ Fun fact I am Funny
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/richpanda365) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http_anupam_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-mandal71) 
